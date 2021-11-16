@@ -1,13 +1,5 @@
 535000.0
-https://www.domain.com.au/24-vermont-grove-wellard-wa-6170-2016870293
-https://www.domain.com.au/15-kelvin-road-maddington-wa-6109-2016864309
-https://www.domain.com.au/22-wattleseed-avenue-treeby-wa-6164-2016859936
-https://www.domain.com.au/122-braemore-street-armadale-wa-6112-2016841278
-https://www.domain.com.au/30-marriot-turn-currambine-wa-6028-2016831201
-https://www.domain.com.au/11-grand-boulevard-joondalup-wa-6027-2016809143
-https://www.domain.com.au/3-30-sporing-way-hillarys-wa-6025-2016786921
-https://www.domain.com.au/2-30-sporing-way-hillarys-wa-6025-2016786919
-https://www.domain.com.au/7-8-josephson-street-fremantle-wa-6160-2016639880
+https://www.domain.com.au/1-2-3-11-argyle-street-bentley-wa-6102-2016609166
 https://www.domain.com.au/27a-clancy-way-thornlie-wa-6108-2016529497
 https://www.domain.com.au/16-bellanger-drive-beldon-wa-6027-2016525448
 https://www.domain.com.au/1-30-sporing-way-hillarys-wa-6025-2016432090
@@ -19,3 +11,11 @@ https://www.domain.com.au/caversham-wa-6055-2014731439
 https://www.domain.com.au/caversham-wa-6055-2014643531
 https://www.domain.com.au/93-hookstone-drive-landsdale-wa-6065-2014196256
 https://www.domain.com.au/43-fowey-loop-mindarie-wa-6030-2013897013
+https://www.domain.com.au/22-winton-crescent-high-wycombe-wa-6057-2013277985
+https://www.domain.com.au/35-medbury-road-westminster-wa-6061-2012545899
+https://www.domain.com.au/15-passfield-street-baldivis-wa-6171-2017218784
+https://www.domain.com.au/16-barra-place-wanneroo-wa-6065-2017218250
+https://www.domain.com.au/29a-wonga-road-morley-wa-6062-2017217712
+https://www.domain.com.au/30-highview-street-alexander-heights-wa-6064-2017215335
+https://www.domain.com.au/5-minyon-circuit-atwell-wa-6164-2017215088
+https://www.domain.com.au/2-malabar-crescent-craigie-wa-6025-2017211479

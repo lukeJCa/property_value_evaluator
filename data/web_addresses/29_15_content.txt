@@ -1,4 +1,12 @@
 295000.0
+https://www.domain.com.au/6-eileen-street-gosnells-wa-6110-2016861647
+https://www.domain.com.au/4-122-illawarra-crescent-ballajura-wa-6066-2016826351
+https://www.domain.com.au/9c-preston-way-balga-wa-6061-2016813120
+https://www.domain.com.au/211-westfield-street-maddington-wa-6109-2016682160
+https://www.domain.com.au/7-8-heron-place-maddington-wa-6109-2016665621
+https://www.domain.com.au/2-6-bold-place-ferndale-wa-6148-2016645111
+https://www.domain.com.au/149a-safety-bay-rd-shoalwater-wa-6169-2016531667
+https://www.domain.com.au/57-barrington-avenue-champion-lakes-wa-6111-2016525708
 https://www.domain.com.au/25a-banyard-avenue-kelmscott-wa-6111-2016370255
 https://www.domain.com.au/6-30-central-terrace-beckenham-wa-6107-2016335909
 https://www.domain.com.au/3-99-burslem-drive-maddington-wa-6109-2016233062
@@ -11,4 +19,3 @@ https://www.domain.com.au/61-greenway-avenue-thornlie-wa-6108-2014917714
 https://www.domain.com.au/48-rae-road-safety-bay-wa-6169-2014023931
 https://www.domain.com.au/56-44-rome-road-myaree-wa-6154-2013915566
 https://www.domain.com.au/harold-street-gosnells-wa-6110-2013833764
-https://www.domain.com.au/44-rome-road-myaree-wa-6154-2013786643

@@ -1,6 +1,7 @@
 785000.0
+https://www.domain.com.au/3-maxwell-street-beaconsfield-wa-6162-2017077998
+https://www.domain.com.au/18-cummins-street-willagee-wa-6156-2017065240
 https://www.domain.com.au/14-eaton-place-noranda-wa-6062-2017062365
-https://www.domain.com.au/2-scido-rise-darch-wa-6065-2017061728
 https://www.domain.com.au/95-swan-street-tuart-hill-wa-6060-2017045317
 https://www.domain.com.au/16-burdekin-vista-hammond-park-wa-6164-2013549165
 https://www.domain.com.au/123a-alice-street-doubleview-wa-6018-2017037360
@@ -11,11 +12,10 @@ https://www.domain.com.au/42-flinders-street-yokine-wa-6060-2017024879
 https://www.domain.com.au/4-kerior-street-mullaloo-wa-6027-2017020760
 https://www.domain.com.au/80-anglesey-drive-kardinya-wa-6163-2017003541
 https://www.domain.com.au/3-linear-avenue-mullaloo-wa-6027-2016994388
-https://www.domain.com.au/32-hanlon-street-hamilton-hill-wa-6163-2016981788
 https://www.domain.com.au/sorrento-wa-6020-2016981321
 https://www.domain.com.au/sorrento-wa-6020-2016980661
-https://www.domain.com.au/34-merrifield-circle-leeming-wa-6149-2016979843
-https://www.domain.com.au/rivervale-wa-6103-2016958198
 https://www.domain.com.au/8-mccormack-place-maida-vale-wa-6057-2016954882
-https://www.domain.com.au/3-199-fern-road-wilson-wa-6107-2016942842
 https://www.domain.com.au/68-wentletrap-way-mullaloo-wa-6027-2016935741
+https://www.domain.com.au/1-7-marina-drive-ascot-wa-6104-2016850392
+https://www.domain.com.au/301-cape-street-yokine-wa-6060-2016809411
+https://www.domain.com.au/lot-1-2-13-villiers-street-yokine-wa-6060-2016712410

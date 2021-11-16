@@ -1,14 +1,17 @@
 555000.0
+https://www.domain.com.au/250d-cape-street-tuart-hill-wa-6060-2016976194
+https://www.domain.com.au/18a-moore-street-dianella-wa-6059-2016972653
+https://www.domain.com.au/lot-12-maruyama-way-landsdale-wa-6065-2016969151
+https://www.domain.com.au/henley-brook-wa-6055-2016968223
+https://www.domain.com.au/14-hartz-way-wandi-wa-6167-2016964331
 https://www.domain.com.au/26-wroxton-street-midland-wa-6056-2013126870
 https://www.domain.com.au/5-munderee-place-wanneroo-wa-6065-2016955216
 https://www.domain.com.au/100-green-street-joondanna-wa-6060-2016954781
 https://www.domain.com.au/bayswater-wa-6053-2016953509
 https://www.domain.com.au/28a-morley-drive-tuart-hill-wa-6060-2016939318
-https://www.domain.com.au/12-rockaway-grove-canning-vale-wa-6155-2016932450
 https://www.domain.com.au/16-william-street-rockingham-wa-6168-2016919111
 https://www.domain.com.au/26-jecks-street-rockingham-wa-6168-2016911811
 https://www.domain.com.au/henley-brook-wa-6055-2016896857
-https://www.domain.com.au/59-138-lewis-road-forrestfield-wa-6058-2016895826
 https://www.domain.com.au/24-vermont-grove-wellard-wa-6170-2016870293
 https://www.domain.com.au/15-kelvin-road-maddington-wa-6109-2016864309
 https://www.domain.com.au/17-willis-street-warnbro-wa-6169-2016846443
@@ -16,6 +19,3 @@ https://www.domain.com.au/30-marriot-turn-currambine-wa-6028-2016831201
 https://www.domain.com.au/11-grand-boulevard-joondalup-wa-6027-2016809143
 https://www.domain.com.au/3-grizen-way-munster-wa-6166-2016789581
 https://www.domain.com.au/lot-112-daffodil-road-canning-vale-wa-6155-2016748538
-https://www.domain.com.au/7-8-josephson-street-fremantle-wa-6160-2016639880
-https://www.domain.com.au/lot-36-the-heights-kardinya-wa-6163-2015836923
-https://www.domain.com.au/17a-purser-cove-murdoch-wa-6150-2015137175

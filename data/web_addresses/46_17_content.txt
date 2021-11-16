@@ -1,8 +1,13 @@
 465000.0
+https://www.domain.com.au/117-great-northern-highway-midland-wa-6056-2016841007
+https://www.domain.com.au/25-485-rockingham-road-spearwood-wa-6163-2016837468
+https://www.domain.com.au/lot-6-treetop-vista-bullsbrook-wa-6084-2016830411
+https://www.domain.com.au/338-aviator-boulevard-clarkson-wa-6030-2016821168
+https://www.domain.com.au/maddington-wa-6109-2016807678
+https://www.domain.com.au/lot-841-pittsburg-avenue-wellard-wa-6170-2016798213
 https://www.domain.com.au/23-11-mcatee-court-fremantle-wa-6160-2016795905
 https://www.domain.com.au/21-padbury-way-eden-hill-wa-6054-2016749106
 https://www.domain.com.au/106-guadalupe-drive-ballajura-wa-6066-2016665725
-https://www.domain.com.au/16-tallerack-way-forrestfield-wa-6058-2016598261
 https://www.domain.com.au/villa-13-55-alexander-drive-menora-wa-6050-2016545319
 https://www.domain.com.au/21-winfield-street-lynwood-wa-6147-2016499574
 https://www.domain.com.au/4a-kenton-street-lynwood-wa-6147-2016353051
@@ -14,8 +19,3 @@ https://www.domain.com.au/caversham-wa-6055-2014644726
 https://www.domain.com.au/caversham-wa-6055-2014643525
 https://www.domain.com.au/4-cosmos-st-east-cannington-wa-6107-2014637690
 https://www.domain.com.au/76-84-collick-street-hilton-wa-6163-2014183411
-https://www.domain.com.au/maddington-wa-6109-2013794901
-https://www.domain.com.au/27-summons-way-warnbro-wa-6169-2012391783
-https://www.domain.com.au/11-manolas-way-girrawheen-wa-6064-2011683158
-https://www.domain.com.au/98-amethyst-crescent-mount-richon-wa-6112-2017187594
-https://www.domain.com.au/3-129-waterloo-street-tuart-hill-wa-6060-2017186242

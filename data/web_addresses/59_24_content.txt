@@ -1,5 +1,4 @@
 595000.0
-https://www.domain.com.au/49-canns-road-bedfordale-wa-6112-2016813590
 https://www.domain.com.au/90-the-strand-bedford-wa-6052-2016798871
 https://www.domain.com.au/22-pilgrim-way-hamilton-hill-wa-6163-2016783225
 https://www.domain.com.au/belmont-wa-6104-2016767001
@@ -13,7 +12,6 @@ https://www.domain.com.au/munster-wa-6166-2016680904
 https://www.domain.com.au/23-9-hawksburn-road-rivervale-wa-6103-2016649708
 https://www.domain.com.au/1-orchid-street-joondanna-wa-6060-2016559473
 https://www.domain.com.au/willetton-wa-6155-2016528056
-https://www.domain.com.au/10-rowlands-kewdale-wa-6105-2016383305
 https://www.domain.com.au/a-129-ewen-street-doubleview-wa-6018-2016163673
 https://www.domain.com.au/21-hyland-way-wilson-wa-6107-2016118282
 https://www.domain.com.au/526-22-windelya-road-murdoch-wa-6150-2015931661

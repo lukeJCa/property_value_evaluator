@@ -1,15 +1,11 @@
 505000.0
-https://www.domain.com.au/1605-great-eastern-highway-hovea-wa-6071-2016890848
-https://www.domain.com.au/96c-hutton-street-osborne-park-wa-6017-2016885498
-https://www.domain.com.au/15-kelvin-road-maddington-wa-6109-2016864309
-https://www.domain.com.au/17-adlington-way-ellenbrook-wa-6069-2016850808
-https://www.domain.com.au/lot-266-sowthistle-road-bullsbrook-wa-6084-2016830391
 https://www.domain.com.au/467-lakeside-drive-joondalup-wa-6027-2016810884
 https://www.domain.com.au/11-grand-boulevard-joondalup-wa-6027-2016809143
 https://www.domain.com.au/lot-148-firbank-road-beeliar-wa-6164-2016764483
 https://www.domain.com.au/lot-73-luminous-boulevard-bennett-springs-wa-6063-2016755668
 https://www.domain.com.au/24-turquoise-chase-dayton-wa-6055-2016743231
 https://www.domain.com.au/lot-723-greenwich-way-success-wa-6164-2016717782
+https://www.domain.com.au/1-2-3-11-argyle-street-bentley-wa-6102-2016609166
 https://www.domain.com.au/26-john-street-bentley-wa-6102-2016566762
 https://www.domain.com.au/27a-clancy-way-thornlie-wa-6108-2016529497
 https://www.domain.com.au/5-48-salvado-road-wembley-wa-6014-2016527964
@@ -19,3 +15,7 @@ https://www.domain.com.au/21-balwyn-avenue-caversham-wa-6055-2016281195
 https://www.domain.com.au/beckenham-wa-6107-2016029428
 https://www.domain.com.au/33-haga-parkway-landsdale-wa-6065-2015883712
 https://www.domain.com.au/17a-purser-cove-murdoch-wa-6150-2015137175
+https://www.domain.com.au/12-notman-way-baldivis-wa-6171-2013979171
+https://www.domain.com.au/93-amethyst-crescent-mount-richon-wa-6112-2013771470
+https://www.domain.com.au/8-blee-court-rockingham-wa-6168-2017219689
+https://www.domain.com.au/199b-grove-road-lesmurdie-wa-6076-2017219324

@@ -1,8 +1,4 @@
 275000.0
-https://www.domain.com.au/3-36-millerick-way-noranda-wa-6062-2016940443
-https://www.domain.com.au/3-nutcher-way-parmelia-wa-6167-2016906101
-https://www.domain.com.au/2-16-koongee-cross-high-wycombe-wa-6057-2016877860
-https://www.domain.com.au/18-horsley-street-swan-view-wa-6056-2016874798
 https://www.domain.com.au/2-10-peppering-way-westminster-wa-6061-2016866513
 https://www.domain.com.au/7-19-rudkin-place-koondoola-wa-6064-2016850807
 https://www.domain.com.au/5-6-bland-place-beechboro-wa-6063-2016846848
@@ -19,3 +15,7 @@ https://www.domain.com.au/27c-kilmurray-way-balga-wa-6061-2016171806
 https://www.domain.com.au/5-7-shearwater-terrace-ballajura-wa-6066-2015841768
 https://www.domain.com.au/6-10-houtmans-street-shelley-wa-6148-2015726969
 https://www.domain.com.au/2-45-wheatley-street-gosnells-wa-6110-2015045801
+https://www.domain.com.au/71-39-elizabeth-street-cloverdale-wa-6105-2014899574
+https://www.domain.com.au/5-63-madden-way-parmelia-wa-6167-2013121886
+https://www.domain.com.au/12-59-third-avenue-kelmscott-wa-6111-2017215257
+https://www.domain.com.au/8c-sampson-close-midland-wa-6056-2017209316

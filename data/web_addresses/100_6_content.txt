@@ -1,8 +1,6 @@
 1005000.0
-https://www.domain.com.au/216-holmes-rd-forrestfield-wa-6058-2016844600
 https://www.domain.com.au/69-monmouth-street-mount-lawley-wa-6050-2016835883
 https://www.domain.com.au/20a-hope-street-watermans-bay-wa-6020-2016786600
-https://www.domain.com.au/5-morrissey-road-bullsbrook-wa-6084-2016705733
 https://www.domain.com.au/128-homestead-road-gosnells-wa-6110-2016687164
 https://www.domain.com.au/24-maybach-way-dianella-wa-6059-2016106325
 https://www.domain.com.au/7-ennis-place-ascot-wa-6104-2016029696
@@ -14,8 +12,10 @@ https://www.domain.com.au/6-214-wharf-street-queens-park-wa-6107-2015336254
 https://www.domain.com.au/6-alexander-road-rivervale-wa-6103-2015213995
 https://www.domain.com.au/6-repatriation-road-pickering-brook-wa-6076-2015133080
 https://www.domain.com.au/40b-glenelg-ave-wembley-downs-wa-6019-2014688370
+https://www.domain.com.au/20-gimber-street-melville-wa-6156-2017218606
+https://www.domain.com.au/57-the-circus-burswood-wa-6100-2017215274
+https://www.domain.com.au/11-white-street-north-fremantle-wa-6159-2017212540
 https://www.domain.com.au/15-tokay-lane-the-vines-wa-6069-2017186331
 https://www.domain.com.au/6-macbean-place-duncraig-wa-6023-2017177038
 https://www.domain.com.au/7-epping-grove-kallaroo-wa-6025-2017176587
 https://www.domain.com.au/76-belmont-road-kenwick-wa-6107-2017171752
-https://www.domain.com.au/67-grantham-street-wembley-wa-6014-2017164250

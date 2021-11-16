@@ -1,10 +1,5 @@
 825000.0
-https://www.domain.com.au/willetton-wa-6155-2016982742
-https://www.domain.com.au/sorrento-wa-6020-2016981321
-https://www.domain.com.au/sorrento-wa-6020-2016980661
-https://www.domain.com.au/30-maple-street-lathlain-wa-6100-2016955801
-https://www.domain.com.au/128a-broun-avenue-embleton-wa-6062-2016944008
-https://www.domain.com.au/134-south-street-white-gum-valley-wa-6162-2016941327
+https://www.domain.com.au/4-bell-street-rockingham-wa-6168-2016936099
 https://www.domain.com.au/48-sayer-street-midland-wa-6056-2016921864
 https://www.domain.com.au/lot-1541-tba-burns-beach-wa-6028-2016879376
 https://www.domain.com.au/lot-2-138-london-street-north-perth-wa-6006-2016767195
@@ -16,6 +11,11 @@ https://www.domain.com.au/63a-cookham-road-lathlain-wa-6100-2016558319
 https://www.domain.com.au/1-samphire-street-ascot-wa-6104-2016412530
 https://www.domain.com.au/123-south-terrace-como-wa-6152-2015458793
 https://www.domain.com.au/3b-classon-gardens-leeming-wa-6149-2012265175
-https://www.domain.com.au/39-urch-road-roleystone-wa-6111-2017180687
-https://www.domain.com.au/5b-hardy-road-bassendean-wa-6054-2017168531
-https://www.domain.com.au/32-kylie-road-roleystone-wa-6111-2017165720
+https://www.domain.com.au/23-rise-court-mount-richon-wa-6112-2017216662
+https://www.domain.com.au/208-masters-road-darling-downs-wa-6122-2017207690
+https://www.domain.com.au/10-apollo-place-duncraig-wa-6023-2017203642
+https://www.domain.com.au/20-melissa-street-duncraig-wa-6023-2017203618
+https://www.domain.com.au/8-findlay-road-leeming-wa-6149-2017200895
+https://www.domain.com.au/2-tamar-st-palmyra-wa-6157-2017200580
+https://www.domain.com.au/1-188-kitchener-road-booragoon-wa-6154-2017197286
+https://www.domain.com.au/170-silia-rtt-mount-helena-wa-6082-2017195937

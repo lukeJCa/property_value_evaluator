@@ -1,9 +1,4 @@
 275000.0
-https://www.domain.com.au/14-croydon-street-bellevue-wa-6056-2016937473
-https://www.domain.com.au/77-chiltern-avenue-brookdale-wa-6112-2016893940
-https://www.domain.com.au/20-harold-street-gosnells-wa-6110-2016877817
-https://www.domain.com.au/2-132-clayton-street-bellevue-wa-6056-2016850181
-https://www.domain.com.au/5-25-kimberley-street-belmont-wa-6104-2016827824
 https://www.domain.com.au/1-16-rambutan-place-south-lake-wa-6164-2016750719
 https://www.domain.com.au/1-8-adelina-street-wilson-wa-6107-2016678655
 https://www.domain.com.au/2-6-bold-place-ferndale-wa-6148-2016645111
@@ -17,5 +12,8 @@ https://www.domain.com.au/164-597-kalamunda-rd-high-wycombe-wa-6057-2016313836
 https://www.domain.com.au/4-191-manning-road-bentley-wa-6102-2014127602
 https://www.domain.com.au/20-wheelock-road-medina-wa-6167-2016159720
 https://www.domain.com.au/8-99-burslem-drive-maddington-wa-6109-2015963598
-https://www.domain.com.au/467-831-mandurah-road-baldivis-wa-6171-2015846108
-https://www.domain.com.au/226-seville-drive-seville-grove-wa-6112-2015396021
+https://www.domain.com.au/77-99-burslem-drive-maddington-wa-6109-2015286143
+https://www.domain.com.au/101-eudoria-street-gosnells-wa-6110-2015010329
+https://www.domain.com.au/2-theakston-green-leeming-wa-6149-2014574243
+https://www.domain.com.au/unit-4-24-morrison-road-midland-wa-6056-2013904176
+https://www.domain.com.au/54-44-rome-rd-myaree-wa-6154-2013077788

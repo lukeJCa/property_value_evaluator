@@ -1,11 +1,4 @@
 625000.0
-https://www.domain.com.au/13d-wynyard-street-yokine-wa-6060-2016937506
-https://www.domain.com.au/9b-henrietta-court-coogee-wa-6166-2016897069
-https://www.domain.com.au/47-sirius-ramble-quinns-rocks-wa-6030-2016880425
-https://www.domain.com.au/1-118-robert-street-como-wa-6152-2016876481
-https://www.domain.com.au/lot-1-30-ackworth-crescent-warwick-wa-6024-2016868234
-https://www.domain.com.au/93a-vickers-street-hamersley-wa-6022-2016033755
-https://www.domain.com.au/sinagra-wa-6065-2016844396
 https://www.domain.com.au/23-silversmith-street-wellard-wa-6170-2016824281
 https://www.domain.com.au/61-garling-street-kardinya-wa-6163-2016727518
 https://www.domain.com.au/lots-2-3-148-eton-street-joondanna-wa-6060-2016702924
@@ -19,3 +12,10 @@ https://www.domain.com.au/28a-highbury-crescent-beckenham-wa-6107-2015469381
 https://www.domain.com.au/willagee-wa-6156-2015008456
 https://www.domain.com.au/2-18-20-hayes-avenue-yokine-wa-6060-2014472031
 https://www.domain.com.au/12-macdonald-avenue-padbury-wa-6025-2014450724
+https://www.domain.com.au/907-96-bow-river-crescent-burswood-wa-6100-2014431054
+https://www.domain.com.au/34-harwood-street-hilton-wa-6163-2017214699
+https://www.domain.com.au/9-gittos-court-noranda-wa-6062-2017212471
+https://www.domain.com.au/8-glenunga-way-craigie-wa-6025-2017211293
+https://www.domain.com.au/12-edgecombe-pass-aveley-wa-6069-2017209313
+https://www.domain.com.au/20-mindarie-drive-quinns-rocks-wa-6030-2017206724
+https://www.domain.com.au/5-parkfield-place-craigie-wa-6025-2017204426

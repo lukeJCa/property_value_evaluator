@@ -1,10 +1,13 @@
 515000.0
-https://www.domain.com.au/15-colony-court-thornlie-wa-6108-2016884406
+https://www.domain.com.au/182a-manning-road-wilson-wa-6107-2016941315
+https://www.domain.com.au/9-27-kishorn-rd-applecross-wa-6153-2016935859
+https://www.domain.com.au/9-newington-pass-ellenbrook-wa-6069-2016933964
+https://www.domain.com.au/3-38-lewington-street-rockingham-wa-6168-2016911215
+https://www.domain.com.au/3-village-lane-success-wa-6164-2016898919
+https://www.domain.com.au/226a-ravenscar-street-doubleview-wa-6018-2016885366
 https://www.domain.com.au/1-11-bilcich-gardens-spearwood-wa-6163-2016874614
 https://www.domain.com.au/15-goldsworthy-entrance-alexander-heights-wa-6064-2016859271
-https://www.domain.com.au/12-jade-street-mount-richon-wa-6112-2016847702
 https://www.domain.com.au/woodbridge-wa-6056-2016827395
-https://www.domain.com.au/49-canns-road-bedfordale-wa-6112-2016813590
 https://www.domain.com.au/6-vista-court-morley-wa-6062-2016810871
 https://www.domain.com.au/south-lake-wa-6164-2016797600
 https://www.domain.com.au/quinns-rocks-wa-6030-2016788496
@@ -14,8 +17,5 @@ https://www.domain.com.au/bedford-wa-6052-2016732632
 https://www.domain.com.au/7-elson-way-cloverdale-wa-6105-2016695020
 https://www.domain.com.au/128-collier-road-embleton-wa-6062-2016691881
 https://www.domain.com.au/coogee-wa-6166-2016676848
-https://www.domain.com.au/villa-14-moran-street-beaconsfield-wa-6162-2016653277
 https://www.domain.com.au/3-doncaster-road-mirrabooka-wa-6061-2016465954
 https://www.domain.com.au/55c-gildercliffe-scarborough-wa-6019-2016461545
-https://www.domain.com.au/east-perth-wa-6004-2016381093
-https://www.domain.com.au/3-wynyard-way-thornlie-wa-6108-2016436872

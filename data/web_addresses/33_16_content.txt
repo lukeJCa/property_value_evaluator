@@ -1,8 +1,4 @@
 335000.0
-https://www.domain.com.au/4-penola-court-clarkson-wa-6030-2016999736
-https://www.domain.com.au/27-fiord-way-aveley-wa-6069-2016994149
-https://www.domain.com.au/21b-denning-court-seville-grove-wa-6112-2016990942
-https://www.domain.com.au/29a-winterton-way-girrawheen-wa-6064-2016990337
 https://www.domain.com.au/12-tour-place-middle-swan-wa-6056-2016989703
 https://www.domain.com.au/13-ganges-street-southern-river-wa-6110-2016980629
 https://www.domain.com.au/4-159-hamilton-street-queens-park-wa-6107-2016980244
@@ -13,9 +9,13 @@ https://www.domain.com.au/6-180-kent-street-rockingham-wa-6168-2016944038
 https://www.domain.com.au/52-dalrymple-dr-leda-wa-6170-2016941743
 https://www.domain.com.au/181-benenden-avenue-butler-wa-6036-2016930801
 https://www.domain.com.au/262-grandis-boulevard-banksia-grove-wa-6031-2016923661
-https://www.domain.com.au/302-beechboro-road-north-morley-wa-6062-2016915469
 https://www.domain.com.au/3-32-hubert-road-maylands-wa-6051-2016913796
 https://www.domain.com.au/4-28-luton-close-ballajura-wa-6066-2016908796
 https://www.domain.com.au/4a-beach-street-cottesloe-wa-6011-2016702304
 https://www.domain.com.au/32b-blackdoune-way-westminster-wa-6061-2016874521
 https://www.domain.com.au/20-storrington-cres-westminster-wa-6061-2016807486
+https://www.domain.com.au/lot-2-18-melvin-avenue-thornlie-wa-6108-2016800344
+https://www.domain.com.au/mount-nasura-wa-6112-2016786825
+https://www.domain.com.au/1-sunvest-place-merriwa-wa-6030-2016764722
+https://www.domain.com.au/kelmscott-wa-6111-2016755130
+https://www.domain.com.au/lockridge-wa-6054-2016682914

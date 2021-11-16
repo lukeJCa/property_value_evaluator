@@ -1,17 +1,15 @@
 225000.0
-https://www.domain.com.au/1-18-percy-street-gosnells-wa-6110-2016988557
 https://www.domain.com.au/8b-thomas-street-armadale-wa-6112-2016957438
-https://www.domain.com.au/150b-fremantle-rd-gosnells-wa-6110-2016953528
 https://www.domain.com.au/1-2368-albany-highway-gosnells-wa-6110-2016879862
 https://www.domain.com.au/11-6-8-sepia-court-rockingham-wa-6168-2016812541
 https://www.domain.com.au/122-verna-street-gosnells-wa-6110-2016649882
 https://www.domain.com.au/11-stanton-road-redcliffe-wa-6104-2016645465
 https://www.domain.com.au/53b-orelia-avenue-orelia-wa-6167-2016130094
-https://www.domain.com.au/43-banksia-road-camillo-wa-6111-2017180778
+https://www.domain.com.au/queens-park-wa-6107-2017211214
 https://www.domain.com.au/128b-crandon-st-gosnells-wa-6110-2017162750
+https://www.domain.com.au/14-2-attfield-maddington-wa-6109-2016926338
 https://www.domain.com.au/169b-riseley-street-booragoon-wa-6154-2017123165
 https://www.domain.com.au/2-41-sixth-road-armadale-wa-6112-2017122006
-https://www.domain.com.au/10a-locksley-avenue-armadale-wa-6112-2017079219
 https://www.domain.com.au/115b-fifth-road-armadale-wa-6112-2016974254
 https://www.domain.com.au/8-21-wroxton-street-midland-wa-6056-2016963533
 https://www.domain.com.au/3-tucker-street-medina-wa-6167-2016948908
@@ -19,3 +17,5 @@ https://www.domain.com.au/2-28-streatham-street-beckenham-wa-6107-2016862969
 https://www.domain.com.au/52-cowan-street-armadale-wa-6112-2016744386
 https://www.domain.com.au/56-21-dianella-drive-dianella-wa-6059-2016708361
 https://www.domain.com.au/45-banksia-road-camillo-wa-6111-2016656770
+https://www.domain.com.au/117-westfield-street-maddington-wa-6109-2016336465
+https://www.domain.com.au/231-177-dampier-avenue-kallaroo-wa-6025-2015513820

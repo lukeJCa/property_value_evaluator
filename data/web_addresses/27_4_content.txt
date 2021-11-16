@@ -1,8 +1,6 @@
 275000.0
 https://www.domain.com.au/2-mitchell-crescent-middle-swan-wa-6056-2017052597
 https://www.domain.com.au/17-rudkin-place-koondoola-wa-6064-2017050545
-https://www.domain.com.au/9-youngs-place-parmelia-wa-6167-2017036502
-https://www.domain.com.au/472-equinox-loop-wellard-wa-6170-2017036465
 https://www.domain.com.au/7-62-main-street-osborne-park-wa-6017-2017035009
 https://www.domain.com.au/1-clarence-street-mount-lawley-wa-6050-2017031244
 https://www.domain.com.au/70-hastings-street-scarborough-wa-6019-2017031168
@@ -15,7 +13,9 @@ https://www.domain.com.au/6b-marlee-court-langford-wa-6147-2016990414
 https://www.domain.com.au/2-coralie-court-armadale-wa-6112-2016986176
 https://www.domain.com.au/21-43-sixth-rd-armadale-wa-6112-2016984662
 https://www.domain.com.au/8-25-apley-street-maddington-wa-6109-2013239927
-https://www.domain.com.au/10-fennager-way-calista-wa-6167-2016975098
 https://www.domain.com.au/1a-shanks-court-armadale-wa-6112-2016973766
 https://www.domain.com.au/95-strawberry-drive-seville-grove-wa-6112-2016971665
 https://www.domain.com.au/140-lukin-drive-ridgewood-wa-6030-2016955496
+https://www.domain.com.au/3-nutcher-way-parmelia-wa-6167-2016906101
+https://www.domain.com.au/2-16-koongee-cross-high-wycombe-wa-6057-2016877860
+https://www.domain.com.au/18-horsley-street-swan-view-wa-6056-2016874798

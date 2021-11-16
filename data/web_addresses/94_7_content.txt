@@ -1,11 +1,4 @@
 945000.0
-https://www.domain.com.au/21-josephine-crescent-kalamunda-wa-6076-2017006367
-https://www.domain.com.au/111-glen-iris-drive-jandakot-wa-6164-2017003916
-https://www.domain.com.au/25-peirse-way-marmion-wa-6020-2017001273
-https://www.domain.com.au/108-midland-road-maida-vale-wa-6057-2016977895
-https://www.domain.com.au/15-clara-road-hamilton-hill-wa-6163-2016946279
-https://www.domain.com.au/38-dunholme-street-osborne-park-wa-6017-2016929381
-https://www.domain.com.au/26a-howick-street-burswood-wa-6100-2016916375
 https://www.domain.com.au/25a-bedford-road-ardross-wa-6153-2016889494
 https://www.domain.com.au/14-kokoda-boulevard-dianella-wa-6059-2016886514
 https://www.domain.com.au/26-weston-way-kardinya-wa-6163-2016850907
@@ -13,3 +6,4 @@ https://www.domain.com.au/10-kokoda-boulevard-dianella-wa-6059-2016814167
 https://www.domain.com.au/12-alexander-street-balcatta-wa-6021-2016813767
 https://www.domain.com.au/51c-tain-street-applecross-wa-6153-2016521002
 https://www.domain.com.au/51-tain-street-applecross-wa-6153-2016413582
+https://www.domain.com.au/1-crufts-way-canning-vale-wa-6155-2016332125

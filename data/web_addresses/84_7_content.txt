@@ -1,5 +1,4 @@
 845000.0
-https://www.domain.com.au/58-boddington-circuit-dianella-wa-6059-2017175608
 https://www.domain.com.au/39-mooring-crescent-ocean-reef-wa-6027-2017173616
 https://www.domain.com.au/5b-hardy-road-bassendean-wa-6054-2017168531
 https://www.domain.com.au/32-kylie-road-roleystone-wa-6111-2017165720
@@ -8,14 +7,15 @@ https://www.domain.com.au/45a-monash-ave-como-wa-6152-2017161079
 https://www.domain.com.au/14a-puntie-crescent-maylands-wa-6051-2017160182
 https://www.domain.com.au/23-lockway-street-southern-river-wa-6110-2017158980
 https://www.domain.com.au/5a-simper-crescent-white-gum-valley-wa-6162-2017157645
-https://www.domain.com.au/21-jouissance-atwell-wa-6164-2017157527
 https://www.domain.com.au/13-scott-street-guildford-wa-6055-2017151414
-https://www.domain.com.au/20-myrtle-avenue-sorrento-wa-6020-2017149011
 https://www.domain.com.au/6-engadine-way-duncraig-wa-6023-2017148738
 https://www.domain.com.au/23-elfreda-avenue-sorrento-wa-6020-2017147742
+https://www.domain.com.au/2-wotan-street-innaloo-wa-6018-2017141894
 https://www.domain.com.au/24-grade-road-kelmscott-wa-6111-2017138160
+https://www.domain.com.au/9-henrietta-street-bayswater-wa-6053-2017135185
 https://www.domain.com.au/65-latrobe-street-yokine-wa-6060-2017131377
+https://www.domain.com.au/395-hamilton-road-coogee-wa-6166-2017130631
 https://www.domain.com.au/3a-bridge-street-south-guildford-wa-6055-2017130531
-https://www.domain.com.au/24-thorne-place-wellard-wa-6170-2016932613
 https://www.domain.com.au/165-pinetree-gully-road-willetton-wa-6155-2017128793
 https://www.domain.com.au/169b-riseley-street-booragoon-wa-6154-2017123165
+https://www.domain.com.au/64-goddard-street-lathlain-wa-6100-2017120609

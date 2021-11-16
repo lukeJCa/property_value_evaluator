@@ -1,8 +1,6 @@
 875000.0
-https://www.domain.com.au/47-coolinga-road-lesmurdie-wa-6076-2017037432
-https://www.domain.com.au/25-wymond-road-roleystone-wa-6111-2017030038
+https://www.domain.com.au/12-muja-lane-woodbridge-wa-6056-2016903160
 https://www.domain.com.au/137-guildford-road-maylands-wa-6051-2017005294
-https://www.domain.com.au/13-pearson-crescent-bull-creek-wa-6149-2017000605
 https://www.domain.com.au/142-raymond-street-yokine-wa-6060-2016979877
 https://www.domain.com.au/4-6-farman-place-hamersley-wa-6022-2016970655
 https://www.domain.com.au/lot-61-jarrah-close-baldivis-wa-6171-2016623812
@@ -11,4 +9,3 @@ https://www.domain.com.au/12-thor-street-innaloo-wa-6018-2016930916
 https://www.domain.com.au/lot-2-4-nuytsia-avenue-sorrento-wa-6020-2016922148
 https://www.domain.com.au/616-22-windelya-road-murdoch-wa-6150-2016615992
 https://www.domain.com.au/103-kitchener-street-trigg-wa-6029-2016499565
-https://www.domain.com.au/29-talus-drive-mount-richon-wa-6112-2015333567

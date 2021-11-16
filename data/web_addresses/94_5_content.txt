@@ -1,6 +1,4 @@
 945000.0
-https://www.domain.com.au/193-caporn-street-mariginiup-wa-6078-2016680474
-https://www.domain.com.au/59-galwey-street-leederville-wa-6007-2016558020
 https://www.domain.com.au/62-south-street-fremantle-wa-6160-2015766140
 https://www.domain.com.au/6-fullston-way-beaconsfield-wa-6162-2015555705
 https://www.domain.com.au/220-dampier-avenue-kallaroo-wa-6025-2015431106
@@ -10,12 +8,14 @@ https://www.domain.com.au/34-hanlon-street-hamilton-hill-wa-6163-2014780018
 https://www.domain.com.au/5-teresa-court-kelmscott-wa-6111-2014643693
 https://www.domain.com.au/39-riverview-road-east-victoria-park-wa-6101-2014643537
 https://www.domain.com.au/377-bulwer-street-west-perth-wa-6005-2013670740
+https://www.domain.com.au/2a-bragor-place-ardross-wa-6153-2017216530
+https://www.domain.com.au/700-goslin-street-sawyers-valley-wa-6074-2017210991
+https://www.domain.com.au/23-arnott-street-north-beach-wa-6020-2017197111
 https://www.domain.com.au/238-tamby-court-southern-river-wa-6110-2017185567
 https://www.domain.com.au/163-ewen-street-doubleview-wa-6018-2017184758
 https://www.domain.com.au/16-strathyre-drive-duncraig-wa-6023-2017181055
 https://www.domain.com.au/18-rivett-place-marmion-wa-6020-2017180688
 https://www.domain.com.au/24-grove-end-ridge-mount-claremont-wa-6010-2017177147
-https://www.domain.com.au/3-5-irwin-street-east-fremantle-wa-6158-2017168524
 https://www.domain.com.au/4110-phillips-road-mundaring-wa-6073-2016735503
 https://www.domain.com.au/6-flowerfield-loop-southern-river-wa-6110-2017158981
 https://www.domain.com.au/221-royal-street-yokine-wa-6060-2017154348

@@ -1,11 +1,10 @@
 1445000.0
+https://www.domain.com.au/56b-beach-road-watermans-bay-wa-6020-2016996380
 https://www.domain.com.au/13a-hardey-road-maylands-wa-6051-2016892699
 https://www.domain.com.au/33-jenkins-avenue-nedlands-wa-6009-2016704949
 https://www.domain.com.au/21-27-jenkins-avenue-nedlands-wa-6009-2017181169
-https://www.domain.com.au/103-murray-road-bicton-wa-6157-2017108705
+https://www.domain.com.au/58-park-street-henley-brook-wa-6055-2017115805
 https://www.domain.com.au/18-view-street-subiaco-wa-6008-2017091626
-https://www.domain.com.au/7-rosemary-link-north-coogee-wa-6163-2017079030
-https://www.domain.com.au/34-point-walter-road-bicton-wa-6157-2017071441
 https://www.domain.com.au/26-webb-street-rossmoyne-wa-6148-2017068921
 https://www.domain.com.au/5-isola-close-inglewood-wa-6052-2017044868
 https://www.domain.com.au/320-marri-park-drive-casuarina-wa-6167-2017041825
@@ -15,7 +14,8 @@ https://www.domain.com.au/lot-350-orchard-avenue-midvale-wa-6056-2016987292
 https://www.domain.com.au/61-fortescue-street-east-fremantle-wa-6158-2016855926
 https://www.domain.com.au/69-monmouth-street-mount-lawley-wa-6050-2016576195
 https://www.domain.com.au/28-32-houston-st-rockingham-wa-6168-2016817388
-https://www.domain.com.au/26a-whitley-crescent-karrinyup-wa-6018-2016795227
 https://www.domain.com.au/39-arden-street-east-perth-wa-6004-2016688580
-https://www.domain.com.au/57-lefroy-road-beaconsfield-wa-6162-2016669257
 https://www.domain.com.au/17-jenkins-avenue-nedlands-wa-6009-2016663961
+https://www.domain.com.au/1568-great-northern-highway-upper-swan-wa-6069-2016493640
+https://www.domain.com.au/147-alma-road-north-perth-wa-6006-2014306456
+https://www.domain.com.au/56-ford-road-lesmurdie-wa-6076-2017125794

@@ -1,7 +1,6 @@
 1395000.0
-https://www.domain.com.au/147-alma-road-north-perth-wa-6006-2014306456
-https://www.domain.com.au/130-attfield-street-south-fremantle-wa-6162-2017178012
 https://www.domain.com.au/13-wray-ave-fremantle-wa-6160-2017127658
+https://www.domain.com.au/1-jeffery-st-beaconsfield-wa-6162-2017126140
 https://www.domain.com.au/56-ford-road-lesmurdie-wa-6076-2017125794
 https://www.domain.com.au/50-beach-road-watermans-bay-wa-6020-2017109303
 https://www.domain.com.au/96-lockhart-street-como-wa-6152-2017072278
@@ -12,10 +11,8 @@ https://www.domain.com.au/21a-view-terrace-east-fremantle-wa-6158-2017035491
 https://www.domain.com.au/6-131-esplanade-rockingham-wa-6168-2017021791
 https://www.domain.com.au/6-stargazer-boulevarde-southern-river-wa-6110-2017020826
 https://www.domain.com.au/40b-stirk-road-alfred-cove-wa-6154-2017015911
-https://www.domain.com.au/32-malsbury-street-bicton-wa-6157-2016972438
 https://www.domain.com.au/283b-alexander-drive-dianella-wa-6059-2016692645
 https://www.domain.com.au/283a-alexander-drive-dianella-wa-6059-2016692643
 https://www.domain.com.au/594-light-street-dianella-wa-6059-2016692634
 https://www.domain.com.au/592-light-street-dianella-wa-6059-2016692619
-https://www.domain.com.au/manning-wa-6152-2016586660
-https://www.domain.com.au/4-rangeview-place-canning-vale-wa-6155-2016581106
+https://www.domain.com.au/18-macdonald-road-applecross-wa-6153-2016351536

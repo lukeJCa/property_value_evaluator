@@ -52,6 +52,7 @@ def check_info_validity(info):
 		return confirmed_data
 	else:
 		return -1
+
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Luke C
 # Duplicated function, finds string in larger string between two substrings.
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -82,6 +83,8 @@ def basic_info(url):
 
 		list_val = data = soup.find_all('div', attrs = {'data-testid' : "listing-summary-property-type"}) 
 		type_info = find_between_r(str(list_val), 'span class="css-in3yi3">', "</span></div>]")
+
+		print(cleaned_info)
 		if cleaned_info != -1:
 			cleaned_info.append(type_info)
 

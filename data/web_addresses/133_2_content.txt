@@ -1,14 +1,13 @@
 1335000.0
+https://www.domain.com.au/29-everett-street-crawley-wa-6009-2017091576
+https://www.domain.com.au/9b-gold-street-south-fremantle-wa-6162-2017084590
 https://www.domain.com.au/8-siddons-way-booragoon-wa-6154-2017079248
 https://www.domain.com.au/24-macquatha-close-north-coogee-wa-6163-2017034343
 https://www.domain.com.au/12-preston-point-road-east-fremantle-wa-6158-2016983582
 https://www.domain.com.au/27-b-laurel-street-mullaloo-wa-6027-2016973795
-https://www.domain.com.au/3-worley-street-willagee-wa-6156-2016939466
 https://www.domain.com.au/175-railway-road-gooseberry-hill-wa-6076-2016920777
 https://www.domain.com.au/10-queens-road-mount-pleasant-wa-6153-2016886573
 https://www.domain.com.au/7-tidewater-close-yangebup-wa-6164-2016845171
-https://www.domain.com.au/26a-whitley-crescent-karrinyup-wa-6018-2016795227
-https://www.domain.com.au/39-tees-court-mindarie-wa-6030-2016705046
 https://www.domain.com.au/147-alma-road-north-perth-wa-6006-2014306456
 https://www.domain.com.au/318-mandogalup-road-mandogalup-wa-6167-2013411512
 https://www.domain.com.au/61-alver-road-doubleview-wa-6018-2017174130
@@ -19,3 +18,4 @@ https://www.domain.com.au/96-lockhart-street-como-wa-6152-2017072278
 https://www.domain.com.au/44b-alness-street-applecross-wa-6153-2017063914
 https://www.domain.com.au/89-gardiner-road-karragullen-wa-6111-2017057671
 https://www.domain.com.au/3-simnia-place-mullaloo-wa-6027-2017054450
+https://www.domain.com.au/40b-stirk-road-alfred-cove-wa-6154-2017015911

@@ -1,8 +1,6 @@
 1795000.0
 https://www.domain.com.au/209-riverton-drive-north-shelley-wa-6148-2017047479
-https://www.domain.com.au/6-doyle-street-mosman-park-wa-6012-2017038266
 https://www.domain.com.au/238-campersic-road-herne-hill-wa-6056-2017025009
-https://www.domain.com.au/30-sackville-terrace-scarborough-wa-6019-2017022616
 https://www.domain.com.au/2-skipton-way-city-beach-wa-6015-2017013924
 https://www.domain.com.au/14a-reserve-street-bicton-wa-6157-2017003468
 https://www.domain.com.au/156b-robert-street-como-wa-6152-2016973758
@@ -11,11 +9,13 @@ https://www.domain.com.au/1-5-the-avenue-crawley-wa-6009-2016956274
 https://www.domain.com.au/7-parakeet-way-coogee-coogee-wa-6166-2016925533
 https://www.domain.com.au/108-vincent-street-north-perth-wa-6006-2016863997
 https://www.domain.com.au/7-rhodes-place-maida-vale-wa-6057-2016804596
-https://www.domain.com.au/1568-great-northern-highway-upper-swan-wa-6069-2016493640
-https://www.domain.com.au/52-kemp-street-pearsall-wa-6065-2016260692
-https://www.domain.com.au/6-dacelo-vsta-waterford-wa-6152-2015928921
 https://www.domain.com.au/30a-leonora-street-como-wa-6152-2014759475
 https://www.domain.com.au/10a-shelley-street-shelley-wa-6148-2015348263
 https://www.domain.com.au/1-almondbury-road-ardross-wa-6153-2014591512
+https://www.domain.com.au/17-atkinson-road-subiaco-wa-6008-2017219868
+https://www.domain.com.au/7-woodthorpe-drive-willetton-wa-6155-2017215366
+https://www.domain.com.au/29-moreing-road-attadale-wa-6156-2017177628
 https://www.domain.com.au/30-shillington-way-wanneroo-wa-6065-2017039178
 https://www.domain.com.au/47-kintail-road-applecross-wa-6153-2017012094
+https://www.domain.com.au/8-tully-road-east-perth-wa-6004-2017005335
+https://www.domain.com.au/184-51-beach-street-fremantle-wa-6160-2016983319

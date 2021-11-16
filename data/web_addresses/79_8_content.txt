@@ -1,11 +1,4 @@
 795000.0
-https://www.domain.com.au/68-wentletrap-way-mullaloo-wa-6027-2016935741
-https://www.domain.com.au/120-forrest-road-hamilton-hill-wa-6163-2016918772
-https://www.domain.com.au/202-stock-road-melville-wa-6156-2016917946
-https://www.domain.com.au/52-columbia-parkway-piara-waters-wa-6112-2016916259
-https://www.domain.com.au/80-fraser-street-east-fremantle-wa-6158-2016902859
-https://www.domain.com.au/1-meadow-street-guildford-wa-6055-2016892278
-https://www.domain.com.au/2a-roberts-road-attadale-wa-6156-2016878303
 https://www.domain.com.au/1-7-marina-drive-ascot-wa-6104-2016850392
 https://www.domain.com.au/128-reservoir-road-orange-grove-wa-6109-2016799869
 https://www.domain.com.au/lot-1-2-13-villiers-street-yokine-wa-6060-2016712410
@@ -16,6 +9,13 @@ https://www.domain.com.au/63a-cookham-road-lathlain-wa-6100-2016558319
 https://www.domain.com.au/maddington-wa-6109-2016458744
 https://www.domain.com.au/21-kimberley-street-west-leederville-wa-6007-2016042266
 https://www.domain.com.au/123-south-terrace-como-wa-6152-2015458793
-https://www.domain.com.au/49-graham-road-gooseberry-hill-wa-6076-2015232098
 https://www.domain.com.au/wilson-wa-6107-2015008494
+https://www.domain.com.au/81-edgecumbe-street-como-wa-6152-2014885714
 https://www.domain.com.au/7-cantara-rise-ocean-reef-wa-6027-2014805104
+https://www.domain.com.au/4a-shaftesbury-avenue-bayswater-wa-6053-2014321490
+https://www.domain.com.au/101-chesterfield-road-mirrabooka-wa-6061-2014059946
+https://www.domain.com.au/3b-classon-gardens-leeming-wa-6149-2012265175
+https://www.domain.com.au/10-apollo-place-duncraig-wa-6023-2017203642
+https://www.domain.com.au/20-melissa-street-duncraig-wa-6023-2017203618
+https://www.domain.com.au/8-findlay-road-leeming-wa-6149-2017200895
+https://www.domain.com.au/2-tamar-st-palmyra-wa-6157-2017200580

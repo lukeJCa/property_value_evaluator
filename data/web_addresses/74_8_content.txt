@@ -1,12 +1,8 @@
 745000.0
-https://www.domain.com.au/8-spyglass-hill-ballajura-wa-6066-2016151842
-https://www.domain.com.au/3a-walney-avenue-dianella-wa-6059-2015781910
-https://www.domain.com.au/222-north-beach-drive-tuart-hill-wa-6060-2014988139
-https://www.domain.com.au/470-safety-bay-road-safety-bay-wa-6169-2014883612
-https://www.domain.com.au/8a-auborough-street-doubleview-wa-6018-2013360270
+https://www.domain.com.au/13-9-coromandel-approach-north-coogee-wa-6163-2017198772
+https://www.domain.com.au/631-karrinyup-road-stirling-wa-6021-2017091302
+https://www.domain.com.au/15a-elgon-hill-willetton-wa-6155-2017191564
 https://www.domain.com.au/15-salvator-street-noranda-wa-6062-2017188775
-https://www.domain.com.au/4-treaty-oak-cove-bibra-lake-wa-6163-2017188589
-https://www.domain.com.au/15-lantana-crescent-dianella-wa-6059-2017186330
 https://www.domain.com.au/71-murray-street-bayswater-wa-6053-2017180224
 https://www.domain.com.au/513-lennard-street-dianella-wa-6059-2017176589
 https://www.domain.com.au/23-colac-way-duncraig-wa-6023-2017176401
@@ -17,5 +13,9 @@ https://www.domain.com.au/3-98-deanmore-road-scarborough-wa-6019-2017162703
 https://www.domain.com.au/37-king-road-kalamunda-wa-6076-2017031658
 https://www.domain.com.au/17-auberge-lane-the-vines-wa-6069-2017160213
 https://www.domain.com.au/6-glover-place-dianella-wa-6059-2017160202
+https://www.domain.com.au/24-hartwell-parade-jandakot-wa-6164-2017156702
 https://www.domain.com.au/16-laguna-green-jandakot-wa-6164-2017156313
 https://www.domain.com.au/2350-albany-highway-gosnells-wa-6110-2017149819
+https://www.domain.com.au/40-greenshank-drive-joondalup-wa-6027-2017147758
+https://www.domain.com.au/11-lugano-terrace-beeliar-wa-6164-2017146934
+https://www.domain.com.au/208-berwick-street-victoria-park-wa-6100-2017146843

@@ -1,10 +1,7 @@
 625000.0
-https://www.domain.com.au/17-kennington-road-morley-wa-6062-2017093454
-https://www.domain.com.au/3-versailles-pwy-aubin-grove-wa-6164-2017088733
 https://www.domain.com.au/1-7-holden-street-carlisle-wa-6101-2017088567
 https://www.domain.com.au/23-roper-boulevard-hammond-park-wa-6164-2017088351
 https://www.domain.com.au/11a-gladstone-street-st-james-wa-6102-2017088202
-https://www.domain.com.au/29-kenny-street-bassendean-wa-6054-2017086589
 https://www.domain.com.au/9-manito-place-landsdale-wa-6065-2017086571
 https://www.domain.com.au/5-74-swan-street-tuart-hill-wa-6060-2017077449
 https://www.domain.com.au/32a-valentine-avenue-dianella-wa-6059-2017074742
@@ -15,7 +12,10 @@ https://www.domain.com.au/21-wishbone-drive-south-guildford-wa-6055-2017052630
 https://www.domain.com.au/9-hynes-way-hamilton-hill-wa-6163-2017050544
 https://www.domain.com.au/80-howick-street-lathlain-wa-6100-2017046085
 https://www.domain.com.au/6-parmelia-way-bassendean-wa-6054-2017045649
-https://www.domain.com.au/65-gaby-way-marangaroo-wa-6064-2017044317
+https://www.domain.com.au/254-vahland-aveue-willetton-wa-6155-2017039060
 https://www.domain.com.au/179-manning-road-bentley-wa-6102-2017036425
-https://www.domain.com.au/24-waylen-road-darlington-wa-6070-2017035927
-https://www.domain.com.au/47-drysdale-gardens-wandi-wa-6167-2017030176
+https://www.domain.com.au/36-oceanrunner-blvd-shoalwater-wa-6169-2017028852
+https://www.domain.com.au/46a-harris-street-bicton-wa-6157-2016980475
+https://www.domain.com.au/550-stevens-street-mundaring-wa-6073-2016958063
+https://www.domain.com.au/bedford-wa-6052-2016937390
+https://www.domain.com.au/8-freeman-view-bushmead-wa-6055-2016935958

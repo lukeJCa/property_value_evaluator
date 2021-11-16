@@ -1,13 +1,15 @@
 395000.0
-https://www.domain.com.au/21-eucumbene-crescent-joondalup-wa-6027-2017068814
-https://www.domain.com.au/5-63-glanton-way-dianella-wa-6059-2017064526
-https://www.domain.com.au/34c-parnham-avenue-ellenbrook-wa-6069-2017063746
+https://www.domain.com.au/4-56-third-avenue-mount-lawley-wa-6050-2017093947
+https://www.domain.com.au/11-brailsford-way-butler-wa-6036-2017093622
+https://www.domain.com.au/23-towton-street-redcliffe-wa-6104-2017093395
+https://www.domain.com.au/6-iris-place-yangebup-wa-6164-2014948261
+https://www.domain.com.au/109-centre-street-queens-park-wa-6107-2017091275
 https://www.domain.com.au/173-nicholas-road-hocking-wa-6065-2017063055
 https://www.domain.com.au/25a-wellaton-street-midvale-wa-6056-2017062282
 https://www.domain.com.au/61-heritage-park-drive-baldivis-wa-6171-2017042229
 https://www.domain.com.au/15-grazier-way-ellenbrook-wa-6069-2017037714
 https://www.domain.com.au/26-little-john-road-armadale-wa-6112-2017033192
-https://www.domain.com.au/15-20-long-island-pass-connolly-wa-6027-2017032938
+https://www.domain.com.au/7-eileen-street-gosnells-wa-6110-2017029935
 https://www.domain.com.au/43c-church-street-wanneroo-wa-6065-2017017426
 https://www.domain.com.au/91c-eastdene-circle-nollamara-wa-6061-2016996967
 https://www.domain.com.au/52a-salmar-way-westminster-wa-6061-2016993787
@@ -16,6 +18,4 @@ https://www.domain.com.au/3b-paris-gardens-hocking-wa-6065-2016966646
 https://www.domain.com.au/10-petersfield-lane-wellard-wa-6170-2016940522
 https://www.domain.com.au/37-amadeus-gardens-joondalup-wa-6027-2016922709
 https://www.domain.com.au/64-stockholm-road-wanneroo-wa-6065-2016921702
-https://www.domain.com.au/53c-seaflower-crescent-craigie-wa-6025-2016902960
 https://www.domain.com.au/398-millhouse-road-aveley-wa-6069-2016898761
-https://www.domain.com.au/33-field-street-morley-wa-6062-2016798049

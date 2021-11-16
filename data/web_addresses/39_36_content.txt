@@ -1,13 +1,4 @@
 395000.0
-https://www.domain.com.au/15-parmelia-way-craigie-wa-6025-2016866054
-https://www.domain.com.au/wellard-wa-6170-2016859349
-https://www.domain.com.au/unit-2-11-pearson-drive-success-wa-6164-2016843775
-https://www.domain.com.au/20-lockett-street-coolbellup-wa-6163-2016826557
-https://www.domain.com.au/1-34-hill-view-terrace-st-james-wa-6102-2016822871
-https://www.domain.com.au/77-larrawa-circle-ellenbrook-wa-6069-2016820377
-https://www.domain.com.au/4-7-pearl-road-cloverdale-wa-6105-2016819650
-https://www.domain.com.au/336-egerton-drive-aveley-wa-6069-2016818821
-https://www.domain.com.au/13-7-clere-pass-canning-vale-wa-6155-2016816830
 https://www.domain.com.au/25-towie-street-cloverdale-wa-6105-2016812254
 https://www.domain.com.au/wandi-wa-6167-2016806185
 https://www.domain.com.au/wandi-wa-6167-2016806169
@@ -19,3 +10,12 @@ https://www.domain.com.au/17-jarrah-court-beechboro-wa-6063-2016767787
 https://www.domain.com.au/unit-11-18-gowrie-app-canning-vale-wa-6155-2016752480
 https://www.domain.com.au/forrestdale-wa-6112-2016748843
 https://www.domain.com.au/cockburn-central-wa-6164-2016743258
+https://www.domain.com.au/eden-hill-wa-6054-2016733405
+https://www.domain.com.au/bullsbrook-wa-6084-2016733333
+https://www.domain.com.au/60-153-stock-road-bicton-wa-6157-2016722780
+https://www.domain.com.au/182-ferndale-crescent-ferndale-wa-6148-2016699241
+https://www.domain.com.au/wilson-wa-6107-2016687706
+https://www.domain.com.au/eden-hill-wa-6054-2016685336
+https://www.domain.com.au/piara-waters-wa-6112-2016681041
+https://www.domain.com.au/37b-griggs-way-rockingham-wa-6168-2016671175
+https://www.domain.com.au/2-31-burnett-avenue-leeming-wa-6149-2016589642

@@ -26,7 +26,7 @@ def fill_datafiles():
 		page = requests.get(url)
 		print(str(ID_page) + "_" + str(page))
 
-		if str(page) != "<Response [200]>": ## IF weve passed page 51, should never be called on successful operation
+		if page != "<Response [200]>": ## IF weve passed page 51, should never be called on successful operation
 			break
 		else:
 			soup = BeautifulSoup(page.content, 'html.parser')

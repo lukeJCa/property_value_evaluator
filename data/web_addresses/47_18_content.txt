@@ -1,4 +1,10 @@
 475000.0
+https://www.domain.com.au/bullsbrook-wa-6084-2016814461
+https://www.domain.com.au/maddington-wa-6109-2016807678
+https://www.domain.com.au/2206-aquila-drive-wandi-wa-6167-2016796174
+https://www.domain.com.au/571-bischoff-road-hammond-park-wa-6164-2016795503
+https://www.domain.com.au/12-maneroo-way-ellenbrook-wa-6069-2013867187
+https://www.domain.com.au/25-beveridge-street-bentley-wa-6102-2016643804
 https://www.domain.com.au/26-john-street-bentley-wa-6102-2016566762
 https://www.domain.com.au/89-84-collick-street-hilton-wa-6163-2016532681
 https://www.domain.com.au/21-winfield-street-lynwood-wa-6147-2016499574
@@ -11,11 +17,5 @@ https://www.domain.com.au/16-pricklybark-street-harrisdale-wa-6112-2012399389
 https://www.domain.com.au/maddington-wa-6109-2013794901
 https://www.domain.com.au/27-summons-way-warnbro-wa-6169-2012391783
 https://www.domain.com.au/11-manolas-way-girrawheen-wa-6064-2011683158
-https://www.domain.com.au/4-40-onslow-st-south-perth-wa-6151-2017187689
-https://www.domain.com.au/98-amethyst-crescent-mount-richon-wa-6112-2017187594
-https://www.domain.com.au/2-barnes-court-craigie-wa-6025-2017187561
-https://www.domain.com.au/14a-pilgrim-way-hamilton-hill-wa-6163-2017186009
-https://www.domain.com.au/16-royal-scot-loop-currambine-wa-6028-2017185740
-https://www.domain.com.au/33a-narrung-way-nollamara-wa-6061-2017183960
-https://www.domain.com.au/4b-otway-place-craigie-wa-6025-2017183669
-https://www.domain.com.au/59-marsland-road-midvale-wa-6056-2017182887
+https://www.domain.com.au/11-evesham-drive-ellenbrook-wa-6069-2017219147
+https://www.domain.com.au/2-21-beaconsfield-street-st-james-wa-6102-2017217256

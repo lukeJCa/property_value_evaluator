@@ -1,11 +1,4 @@
 395000.0
-https://www.domain.com.au/3-burnham-way-girrawheen-wa-6064-2016816424
-https://www.domain.com.au/wellard-wa-6170-2016814476
-https://www.domain.com.au/wellard-wa-6170-2016814470
-https://www.domain.com.au/2-91-strive-loop-girrawheen-wa-6064-2016812647
-https://www.domain.com.au/lot-5011-joseph-banks-boulevard-banksia-grove-wa-6031-2016811883
-https://www.domain.com.au/lot-4196-kaleno-lane-caversham-wa-6055-2016800880
-https://www.domain.com.au/lot-2619-patens-grove-byford-wa-6122-2016798027
 https://www.domain.com.au/lot-50-gresham-boulevard-baldivis-wa-6171-2016797774
 https://www.domain.com.au/131b-kent-street-rockingham-wa-6168-2016789155
 https://www.domain.com.au/129-south-western-highway-armadale-wa-6112-2016772313
@@ -19,3 +12,10 @@ https://www.domain.com.au/120-a-balga-avenue-balga-wa-6061-2016628329
 https://www.domain.com.au/1-39-elizabeth-street-cloverdale-wa-6105-2016456760
 https://www.domain.com.au/241-corinthian-road-east-riverton-wa-6148-2016451981
 https://www.domain.com.au/6-drysdale-street-eden-hill-wa-6054-2016379904
+https://www.domain.com.au/4-clarendon-approach-baldivis-wa-6171-2016167230
+https://www.domain.com.au/11-amherst-road-woodbridge-wa-6056-2015453426
+https://www.domain.com.au/2-129-centre-street-queens-park-wa-6107-2015403125
+https://www.domain.com.au/noranda-wa-6062-2014847810
+https://www.domain.com.au/2-16-wallace-street-belmont-wa-6104-2014952716
+https://www.domain.com.au/balga-wa-6061-2012182375
+https://www.domain.com.au/37-maidos-street-ashfield-wa-6054-2014559657
